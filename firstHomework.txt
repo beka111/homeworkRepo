@@ -14,3 +14,6 @@ Validate "India United states of America China England" is displayed
 Deselect the China with index number Deselect the England with value 
 
 do it in maven
+
+Task #2
+open in firefox
